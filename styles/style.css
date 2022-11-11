@@ -301,23 +301,21 @@
 }
 
 .footer__author {
-  padding: 0;
+  padding: 18px 0;
   margin: 0;
   font-size: 18px;
   line-height: 25px;
   font-weight: 400;
   color: #fff;
-  padding: 18px 0;
 }
 
 .footer__column-heading {
   padding: 0;
-  margin: 0;
+  margin: 0 0 20px;
   font-size: 18px;
   line-height: 30px;
   font-weight: 600;
   color: #fff;
-  margin-bottom: 20px;
 }
 
 .footer__column-links {
